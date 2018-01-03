@@ -1,0 +1,35 @@
+$TTL 1D
+@       IN SOA  ns.rilp.nl admin.rilp.nl (
+                                        0       ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H )    ; minimum
+
+                NS      nl01p001.rilp.nl.
+                NS      nl02p001.rilp.nl.
+                NS      nl03p001.rilp.nl.
+
+$INCLUDE RILP/rilp.nl-VIP
+$INCLUDE RILP/rilp.nl-NL01
+$INCLUDE RILP/rilp.nl-NL02
+$INCLUDE RILP/rilp.nl-NL03
+$INCLUDE rilp.nl-cnames
+
+$INCLUDE LAB/lab.rilp.nl-VIP
+$INCLUDE LAB/lab.rilp.nl-NL01
+$INCLUDE LAB/lab.rilp.nl-NL02
+$INCLUDE LAB/lab.rilp.nl-NL03
+$INCLUDE lab.rilp.nl-cnames
+
+$INCLUDE MGT/mgt.rilp.nl-VIP
+$INCLUDE MGT/mgt.rilp.nl-NL01
+$INCLUDE MGT/mgt.rilp.nl-NL02
+$INCLUDE MGT/mgt.rilp.nl-NL03
+$INCLUDE mgt.rilp.nl-cnames
+
+$INCLUDE INFRA/infra.rilp.nl-RTR
+$INCLUDE INFRA/infra.rilp.nl-ESX
+$INCLUDE INFRA/infra.rilp.nl-IPMI
+
+$INCLUDE EXAMS/exams.rilp.nl

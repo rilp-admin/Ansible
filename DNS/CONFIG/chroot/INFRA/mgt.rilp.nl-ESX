@@ -1,0 +1,507 @@
+$ORIGIN mgt.rilp.nl.
+
+nl01e
+
+nl01p001        A       172.30.4.1
+nl01p002        A       172.30.4.2
+nl01p003        A       172.30.4.3
+nl01p004        A       172.30.4.4
+nl01p005        A       172.30.4.5
+nl01p006        A       172.30.4.6
+nl01p007        A       172.30.4.7
+nl01p008        A       172.30.4.8
+nl01p009        A       172.30.4.9
+nl01p010        A       172.30.4.10
+nl01p011        A       172.30.4.11
+nl01p012        A       172.30.4.12
+nl01p013        A       172.30.4.13
+nl01p014        A       172.30.4.14
+nl01p015        A       172.30.4.15
+nl01p016        A       172.30.4.16
+nl01p017        A       172.30.4.17
+nl01p018        A       172.30.4.18
+nl01p019        A       172.30.4.19
+nl01p020        A       172.30.4.20
+nl01p021        A       172.30.4.21
+nl01p022        A       172.30.4.22
+nl01p023        A       172.30.4.23
+nl01p024        A       172.30.4.24
+nl01p025        A       172.30.4.25
+nl01p026        A       172.30.4.26
+nl01p027        A       172.30.4.27
+nl01p028        A       172.30.4.28
+nl01p029        A       172.30.4.29
+nl01p030        A       172.30.4.30
+nl01p031        A       172.30.4.31
+nl01p032        A       172.30.4.32
+nl01p033        A       172.30.4.33
+nl01p034        A       172.30.4.34
+nl01p035        A       172.30.4.35
+nl01p036        A       172.30.4.36
+nl01p037        A       172.30.4.37
+nl01p038        A       172.30.4.38
+nl01p039        A       172.30.4.39
+nl01p040        A       172.30.4.40
+nl01p041        A       172.30.4.41
+nl01p042        A       172.30.4.42
+nl01p043        A       172.30.4.43
+nl01p044        A       172.30.4.44
+nl01p045        A       172.30.4.45
+nl01p046        A       172.30.4.46
+nl01p047        A       172.30.4.47
+nl01p048        A       172.30.4.48
+nl01p049        A       172.30.4.49
+nl01p050        A       172.30.4.50
+nl01p051        A       172.30.4.51
+nl01p052        A       172.30.4.52
+nl01p053        A       172.30.4.53
+nl01p054        A       172.30.4.54
+nl01p055        A       172.30.4.55
+nl01p056        A       172.30.4.56
+nl01p057        A       172.30.4.57
+nl01p058        A       172.30.4.58
+nl01p059        A       172.30.4.59
+nl01p060        A       172.30.4.60
+nl01p061        A       172.30.4.61
+nl01p062        A       172.30.4.62
+nl01p063        A       172.30.4.63
+nl01p064        A       172.30.4.64
+nl01p065        A       172.30.4.65
+nl01p066        A       172.30.4.66
+nl01p067        A       172.30.4.67
+nl01p068        A       172.30.4.68
+nl01p069        A       172.30.4.69
+nl01p070        A       172.30.4.70
+nl01p071        A       172.30.4.71
+nl01p072        A       172.30.4.72
+nl01p073        A       172.30.4.73
+nl01p074        A       172.30.4.74
+nl01p075        A       172.30.4.75
+nl01p076        A       172.30.4.76
+nl01p077        A       172.30.4.77
+nl01p078        A       172.30.4.78
+nl01p079        A       172.30.4.79
+nl01p080        A       172.30.4.80
+nl01p081        A       172.30.4.81
+nl01p082        A       172.30.4.82
+nl01p083        A       172.30.4.83
+nl01p084        A       172.30.4.84
+nl01p085        A       172.30.4.85
+nl01p086        A       172.30.4.86
+nl01p087        A       172.30.4.87
+nl01p088        A       172.30.4.88
+nl01p089        A       172.30.4.89
+nl01p090        A       172.30.4.90
+nl01p091        A       172.30.4.91
+nl01p092        A       172.30.4.92
+nl01p093        A       172.30.4.93
+nl01p094        A       172.30.4.94
+nl01p095        A       172.30.4.95
+nl01p096        A       172.30.4.96
+nl01p097        A       172.30.4.97
+nl01p098        A       172.30.4.98
+nl01p099        A       172.30.4.99
+nl01p100        A       172.30.4.100
+nl01p101        A       172.30.4.101
+nl01p102        A       172.30.4.102
+nl01p103        A       172.30.4.103
+nl01p104        A       172.30.4.104
+nl01p105        A       172.30.4.105
+nl01p106        A       172.30.4.106
+nl01p107        A       172.30.4.107
+nl01p108        A       172.30.4.108
+nl01p109        A       172.30.4.109
+nl01p110        A       172.30.4.110
+nl01p111        A       172.30.4.111
+nl01p112        A       172.30.4.112
+nl01p113        A       172.30.4.113
+nl01p114        A       172.30.4.114
+nl01p115        A       172.30.4.115
+nl01p116        A       172.30.4.116
+nl01p117        A       172.30.4.117
+nl01p118        A       172.30.4.118
+nl01p119        A       172.30.4.119
+nl01p120        A       172.30.4.120
+nl01p121        A       172.30.4.121
+nl01p122        A       172.30.4.122
+nl01p123        A       172.30.4.123
+nl01p124        A       172.30.4.124
+nl01p125        A       172.30.4.125
+nl01p126        A       172.30.4.126
+nl01p127        A       172.30.4.127
+nl01p128        A       172.30.4.128
+nl01p129        A       172.30.4.129
+nl01p130        A       172.30.4.130
+nl01p131        A       172.30.4.131
+nl01p132        A       172.30.4.132
+nl01p133        A       172.30.4.133
+nl01p134        A       172.30.4.134
+nl01p135        A       172.30.4.135
+nl01p136        A       172.30.4.136
+nl01p137        A       172.30.4.137
+nl01p138        A       172.30.4.138
+nl01p139        A       172.30.4.139
+nl01p140        A       172.30.4.140
+nl01p141        A       172.30.4.141
+nl01p142        A       172.30.4.142
+nl01p143        A       172.30.4.143
+nl01p144        A       172.30.4.144
+nl01p145        A       172.30.4.145
+nl01p146        A       172.30.4.146
+nl01p147        A       172.30.4.147
+nl01p148        A       172.30.4.148
+nl01p149        A       172.30.4.149
+nl01p150        A       172.30.4.150
+nl01p151        A       172.30.4.151
+nl01p152        A       172.30.4.152
+nl01p153        A       172.30.4.153
+nl01p154        A       172.30.4.154
+nl01p155        A       172.30.4.155
+nl01p156        A       172.30.4.156
+nl01p157        A       172.30.4.157
+nl01p158        A       172.30.4.158
+nl01p159        A       172.30.4.159
+nl01p160        A       172.30.4.160
+nl01p161        A       172.30.4.161
+nl01p162        A       172.30.4.162
+nl01p163        A       172.30.4.163
+nl01p164        A       172.30.4.164
+nl01p165        A       172.30.4.165
+nl01p166        A       172.30.4.166
+nl01p167        A       172.30.4.167
+nl01p168        A       172.30.4.168
+nl01p169        A       172.30.4.169
+nl01p170        A       172.30.4.170
+nl01p171        A       172.30.4.171
+nl01p172        A       172.30.4.172
+nl01p173        A       172.30.4.173
+nl01p174        A       172.30.4.174
+nl01p175        A       172.30.4.175
+nl01p176        A       172.30.4.176
+nl01p177        A       172.30.4.177
+nl01p178        A       172.30.4.178
+nl01p179        A       172.30.4.179
+nl01p180        A       172.30.4.180
+nl01p181        A       172.30.4.181
+nl01p182        A       172.30.4.182
+nl01p183        A       172.30.4.183
+nl01p184        A       172.30.4.184
+nl01p185        A       172.30.4.185
+nl01p186        A       172.30.4.186
+nl01p187        A       172.30.4.187
+nl01p188        A       172.30.4.188
+nl01p189        A       172.30.4.189
+nl01p190        A       172.30.4.190
+nl01p191        A       172.30.4.191
+nl01p192        A       172.30.4.192
+nl01p193        A       172.30.4.193
+nl01p194        A       172.30.4.194
+nl01p195        A       172.30.4.195
+nl01p196        A       172.30.4.196
+nl01p197        A       172.30.4.197
+nl01p198        A       172.30.4.198
+nl01p199        A       172.30.4.199
+nl01p200        A       172.30.4.200
+nl01p201        A       172.30.4.201
+nl01p202        A       172.30.4.202
+nl01p203        A       172.30.4.203
+nl01p204        A       172.30.4.204
+nl01p205        A       172.30.4.205
+nl01p206        A       172.30.4.206
+nl01p207        A       172.30.4.207
+nl01p208        A       172.30.4.208
+nl01p209        A       172.30.4.209
+nl01p210        A       172.30.4.210
+nl01p211        A       172.30.4.211
+nl01p212        A       172.30.4.212
+nl01p213        A       172.30.4.213
+nl01p214        A       172.30.4.214
+nl01p215        A       172.30.4.215
+nl01p216        A       172.30.4.216
+nl01p217        A       172.30.4.217
+nl01p218        A       172.30.4.218
+nl01p219        A       172.30.4.219
+nl01p220        A       172.30.4.220
+nl01p221        A       172.30.4.221
+nl01p222        A       172.30.4.222
+nl01p223        A       172.30.4.223
+nl01p224        A       172.30.4.224
+nl01p225        A       172.30.4.225
+nl01p226        A       172.30.4.226
+nl01p227        A       172.30.4.227
+nl01p228        A       172.30.4.228
+nl01p229        A       172.30.4.229
+nl01p230        A       172.30.4.230
+nl01p231        A       172.30.4.231
+nl01p232        A       172.30.4.232
+nl01p233        A       172.30.4.233
+nl01p234        A       172.30.4.234
+nl01p235        A       172.30.4.235
+nl01p236        A       172.30.4.236
+nl01p237        A       172.30.4.237
+nl01p238        A       172.30.4.238
+nl01p239        A       172.30.4.239
+nl01p240        A       172.30.4.240
+nl01p241        A       172.30.4.241
+nl01p242        A       172.30.4.242
+nl01p243        A       172.30.4.243
+nl01p244        A       172.30.4.244
+nl01p245        A       172.30.4.245
+nl01p246        A       172.30.4.246
+nl01p247        A       172.30.4.247
+nl01p248        A       172.30.4.248
+nl01p249        A       172.30.4.249
+nl01p250        A       172.30.4.250
+
+$ORIGIN 4.30.172.in-addr.arpa.
+
+1       IN      PTR     nl01p001.rilp.nl.
+2       IN      PTR     nl01p002.rilp.nl.
+3       IN      PTR     nl01p003.rilp.nl.
+4       IN      PTR     nl01p004.rilp.nl.
+5       IN      PTR     nl01p005.rilp.nl.
+6       IN      PTR     nl01p006.rilp.nl.
+7       IN      PTR     nl01p007.rilp.nl.
+8       IN      PTR     nl01p008.rilp.nl.
+9       IN      PTR     nl01p009.rilp.nl.
+10      IN      PTR     nl01p010.rilp.nl.
+11      IN      PTR     nl01p011.rilp.nl.
+12      IN      PTR     nl01p012.rilp.nl.
+13      IN      PTR     nl01p013.rilp.nl.
+14      IN      PTR     nl01p014.rilp.nl.
+15      IN      PTR     nl01p015.rilp.nl.
+16      IN      PTR     nl01p016.rilp.nl.
+17      IN      PTR     nl01p017.rilp.nl.
+18      IN      PTR     nl01p018.rilp.nl.
+19      IN      PTR     nl01p019.rilp.nl.
+20      IN      PTR     nl01p020.rilp.nl.
+21      IN      PTR     nl01p021.rilp.nl.
+22      IN      PTR     nl01p022.rilp.nl.
+23      IN      PTR     nl01p023.rilp.nl.
+24      IN      PTR     nl01p024.rilp.nl.
+25      IN      PTR     nl01p025.rilp.nl.
+26      IN      PTR     nl01p026.rilp.nl.
+27      IN      PTR     nl01p027.rilp.nl.
+28      IN      PTR     nl01p028.rilp.nl.
+29      IN      PTR     nl01p029.rilp.nl.
+30      IN      PTR     nl01p030.rilp.nl.
+31      IN      PTR     nl01p031.rilp.nl.
+32      IN      PTR     nl01p032.rilp.nl.
+33      IN      PTR     nl01p033.rilp.nl.
+34      IN      PTR     nl01p034.rilp.nl.
+35      IN      PTR     nl01p035.rilp.nl.
+36      IN      PTR     nl01p036.rilp.nl.
+37      IN      PTR     nl01p037.rilp.nl.
+38      IN      PTR     nl01p038.rilp.nl.
+39      IN      PTR     nl01p039.rilp.nl.
+40      IN      PTR     nl01p040.rilp.nl.
+41      IN      PTR     nl01p041.rilp.nl.
+42      IN      PTR     nl01p042.rilp.nl.
+43      IN      PTR     nl01p043.rilp.nl.
+44      IN      PTR     nl01p044.rilp.nl.
+45      IN      PTR     nl01p045.rilp.nl.
+46      IN      PTR     nl01p046.rilp.nl.
+47      IN      PTR     nl01p047.rilp.nl.
+48      IN      PTR     nl01p048.rilp.nl.
+49      IN      PTR     nl01p049.rilp.nl.
+50      IN      PTR     nl01p050.rilp.nl.
+51      IN      PTR     nl01p051.rilp.nl.
+52      IN      PTR     nl01p052.rilp.nl.
+53      IN      PTR     nl01p053.rilp.nl.
+54      IN      PTR     nl01p054.rilp.nl.
+55      IN      PTR     nl01p055.rilp.nl.
+56      IN      PTR     nl01p056.rilp.nl.
+57      IN      PTR     nl01p057.rilp.nl.
+58      IN      PTR     nl01p058.rilp.nl.
+59      IN      PTR     nl01p059.rilp.nl.
+60      IN      PTR     nl01p060.rilp.nl.
+61      IN      PTR     nl01p061.rilp.nl.
+62      IN      PTR     nl01p062.rilp.nl.
+63      IN      PTR     nl01p063.rilp.nl.
+64      IN      PTR     nl01p064.rilp.nl.
+65      IN      PTR     nl01p065.rilp.nl.
+66      IN      PTR     nl01p066.rilp.nl.
+67      IN      PTR     nl01p067.rilp.nl.
+68      IN      PTR     nl01p068.rilp.nl.
+69      IN      PTR     nl01p069.rilp.nl.
+70      IN      PTR     nl01p070.rilp.nl.
+71      IN      PTR     nl01p071.rilp.nl.
+72      IN      PTR     nl01p072.rilp.nl.
+73      IN      PTR     nl01p073.rilp.nl.
+74      IN      PTR     nl01p074.rilp.nl.
+75      IN      PTR     nl01p075.rilp.nl.
+76      IN      PTR     nl01p076.rilp.nl.
+77      IN      PTR     nl01p077.rilp.nl.
+78      IN      PTR     nl01p078.rilp.nl.
+79      IN      PTR     nl01p079.rilp.nl.
+80      IN      PTR     nl01p080.rilp.nl.
+81      IN      PTR     nl01p081.rilp.nl.
+82      IN      PTR     nl01p082.rilp.nl.
+83      IN      PTR     nl01p083.rilp.nl.
+84      IN      PTR     nl01p084.rilp.nl.
+85      IN      PTR     nl01p085.rilp.nl.
+86      IN      PTR     nl01p086.rilp.nl.
+87      IN      PTR     nl01p087.rilp.nl.
+88      IN      PTR     nl01p088.rilp.nl.
+89      IN      PTR     nl01p089.rilp.nl.
+90      IN      PTR     nl01p090.rilp.nl.
+91      IN      PTR     nl01p091.rilp.nl.
+92      IN      PTR     nl01p092.rilp.nl.
+93      IN      PTR     nl01p093.rilp.nl.
+94      IN      PTR     nl01p094.rilp.nl.
+95      IN      PTR     nl01p095.rilp.nl.
+96      IN      PTR     nl01p096.rilp.nl.
+97      IN      PTR     nl01p097.rilp.nl.
+98      IN      PTR     nl01p098.rilp.nl.
+99      IN      PTR     nl01p099.rilp.nl.
+100     IN      PTR     nl01p100.rilp.nl.
+101     IN      PTR     nl01p101.rilp.nl.
+102     IN      PTR     nl01p102.rilp.nl.
+103     IN      PTR     nl01p103.rilp.nl.
+104     IN      PTR     nl01p104.rilp.nl.
+105     IN      PTR     nl01p105.rilp.nl.
+106     IN      PTR     nl01p106.rilp.nl.
+107     IN      PTR     nl01p107.rilp.nl.
+108     IN      PTR     nl01p108.rilp.nl.
+109     IN      PTR     nl01p109.rilp.nl.
+110     IN      PTR     nl01p110.rilp.nl.
+111     IN      PTR     nl01p111.rilp.nl.
+112     IN      PTR     nl01p112.rilp.nl.
+113     IN      PTR     nl01p113.rilp.nl.
+114     IN      PTR     nl01p114.rilp.nl.
+115     IN      PTR     nl01p115.rilp.nl.
+116     IN      PTR     nl01p116.rilp.nl.
+117     IN      PTR     nl01p117.rilp.nl.
+118     IN      PTR     nl01p118.rilp.nl.
+119     IN      PTR     nl01p119.rilp.nl.
+120     IN      PTR     nl01p120.rilp.nl.
+121     IN      PTR     nl01p121.rilp.nl.
+122     IN      PTR     nl01p122.rilp.nl.
+123     IN      PTR     nl01p123.rilp.nl.
+124     IN      PTR     nl01p124.rilp.nl.
+125     IN      PTR     nl01p125.rilp.nl.
+126     IN      PTR     nl01p126.rilp.nl.
+127     IN      PTR     nl01p127.rilp.nl.
+128     IN      PTR     nl01p128.rilp.nl.
+129     IN      PTR     nl01p129.rilp.nl.
+130     IN      PTR     nl01p130.rilp.nl.
+131     IN      PTR     nl01p131.rilp.nl.
+132     IN      PTR     nl01p132.rilp.nl.
+133     IN      PTR     nl01p133.rilp.nl.
+134     IN      PTR     nl01p134.rilp.nl.
+135     IN      PTR     nl01p135.rilp.nl.
+136     IN      PTR     nl01p136.rilp.nl.
+137     IN      PTR     nl01p137.rilp.nl.
+138     IN      PTR     nl01p138.rilp.nl.
+139     IN      PTR     nl01p139.rilp.nl.
+140     IN      PTR     nl01p140.rilp.nl.
+141     IN      PTR     nl01p141.rilp.nl.
+142     IN      PTR     nl01p142.rilp.nl.
+143     IN      PTR     nl01p143.rilp.nl.
+144     IN      PTR     nl01p144.rilp.nl.
+145     IN      PTR     nl01p145.rilp.nl.
+146     IN      PTR     nl01p146.rilp.nl.
+147     IN      PTR     nl01p147.rilp.nl.
+148     IN      PTR     nl01p148.rilp.nl.
+149     IN      PTR     nl01p149.rilp.nl.
+150     IN      PTR     nl01p150.rilp.nl.
+151     IN      PTR     nl01p151.rilp.nl.
+152     IN      PTR     nl01p152.rilp.nl.
+153     IN      PTR     nl01p153.rilp.nl.
+154     IN      PTR     nl01p154.rilp.nl.
+155     IN      PTR     nl01p155.rilp.nl.
+156     IN      PTR     nl01p156.rilp.nl.
+157     IN      PTR     nl01p157.rilp.nl.
+158     IN      PTR     nl01p158.rilp.nl.
+159     IN      PTR     nl01p159.rilp.nl.
+160     IN      PTR     nl01p160.rilp.nl.
+161     IN      PTR     nl01p161.rilp.nl.
+162     IN      PTR     nl01p162.rilp.nl.
+163     IN      PTR     nl01p163.rilp.nl.
+164     IN      PTR     nl01p164.rilp.nl.
+165     IN      PTR     nl01p165.rilp.nl.
+166     IN      PTR     nl01p166.rilp.nl.
+167     IN      PTR     nl01p167.rilp.nl.
+168     IN      PTR     nl01p168.rilp.nl.
+169     IN      PTR     nl01p169.rilp.nl.
+170     IN      PTR     nl01p170.rilp.nl.
+171     IN      PTR     nl01p171.rilp.nl.
+172     IN      PTR     nl01p172.rilp.nl.
+173     IN      PTR     nl01p173.rilp.nl.
+174     IN      PTR     nl01p174.rilp.nl.
+175     IN      PTR     nl01p175.rilp.nl.
+176     IN      PTR     nl01p176.rilp.nl.
+177     IN      PTR     nl01p177.rilp.nl.
+178     IN      PTR     nl01p178.rilp.nl.
+179     IN      PTR     nl01p179.rilp.nl.
+180     IN      PTR     nl01p180.rilp.nl.
+181     IN      PTR     nl01p181.rilp.nl.
+182     IN      PTR     nl01p182.rilp.nl.
+183     IN      PTR     nl01p183.rilp.nl.
+184     IN      PTR     nl01p184.rilp.nl.
+185     IN      PTR     nl01p185.rilp.nl.
+186     IN      PTR     nl01p186.rilp.nl.
+187     IN      PTR     nl01p187.rilp.nl.
+188     IN      PTR     nl01p188.rilp.nl.
+189     IN      PTR     nl01p189.rilp.nl.
+190     IN      PTR     nl01p190.rilp.nl.
+191     IN      PTR     nl01p191.rilp.nl.
+192     IN      PTR     nl01p192.rilp.nl.
+193     IN      PTR     nl01p193.rilp.nl.
+194     IN      PTR     nl01p194.rilp.nl.
+195     IN      PTR     nl01p195.rilp.nl.
+196     IN      PTR     nl01p196.rilp.nl.
+197     IN      PTR     nl01p197.rilp.nl.
+198     IN      PTR     nl01p198.rilp.nl.
+199     IN      PTR     nl01p199.rilp.nl.
+200     IN      PTR     nl01p200.rilp.nl.
+201     IN      PTR     nl01p201.rilp.nl.
+202     IN      PTR     nl01p202.rilp.nl.
+203     IN      PTR     nl01p203.rilp.nl.
+204     IN      PTR     nl01p204.rilp.nl.
+205     IN      PTR     nl01p205.rilp.nl.
+206     IN      PTR     nl01p206.rilp.nl.
+207     IN      PTR     nl01p207.rilp.nl.
+208     IN      PTR     nl01p208.rilp.nl.
+209     IN      PTR     nl01p209.rilp.nl.
+210     IN      PTR     nl01p210.rilp.nl.
+211     IN      PTR     nl01p211.rilp.nl.
+212     IN      PTR     nl01p212.rilp.nl.
+213     IN      PTR     nl01p213.rilp.nl.
+214     IN      PTR     nl01p214.rilp.nl.
+215     IN      PTR     nl01p215.rilp.nl.
+216     IN      PTR     nl01p216.rilp.nl.
+217     IN      PTR     nl01p217.rilp.nl.
+218     IN      PTR     nl01p218.rilp.nl.
+219     IN      PTR     nl01p219.rilp.nl.
+220     IN      PTR     nl01p220.rilp.nl.
+221     IN      PTR     nl01p221.rilp.nl.
+222     IN      PTR     nl01p222.rilp.nl.
+223     IN      PTR     nl01p223.rilp.nl.
+224     IN      PTR     nl01p224.rilp.nl.
+225     IN      PTR     nl01p225.rilp.nl.
+226     IN      PTR     nl01p226.rilp.nl.
+227     IN      PTR     nl01p227.rilp.nl.
+228     IN      PTR     nl01p228.rilp.nl.
+229     IN      PTR     nl01p229.rilp.nl.
+230     IN      PTR     nl01p230.rilp.nl.
+231     IN      PTR     nl01p231.rilp.nl.
+232     IN      PTR     nl01p232.rilp.nl.
+233     IN      PTR     nl01p233.rilp.nl.
+234     IN      PTR     nl01p234.rilp.nl.
+235     IN      PTR     nl01p235.rilp.nl.
+236     IN      PTR     nl01p236.rilp.nl.
+237     IN      PTR     nl01p237.rilp.nl.
+238     IN      PTR     nl01p238.rilp.nl.
+239     IN      PTR     nl01p239.rilp.nl.
+240     IN      PTR     nl01p240.rilp.nl.
+241     IN      PTR     nl01p241.rilp.nl.
+242     IN      PTR     nl01p242.rilp.nl.
+243     IN      PTR     nl01p243.rilp.nl.
+244     IN      PTR     nl01p244.rilp.nl.
+245     IN      PTR     nl01p245.rilp.nl.
+246     IN      PTR     nl01p246.rilp.nl.
+247     IN      PTR     nl01p247.rilp.nl.
+248     IN      PTR     nl01p248.rilp.nl.
+249     IN      PTR     nl01p249.rilp.nl.
+250     IN      PTR     nl01p250.rilp.nl.

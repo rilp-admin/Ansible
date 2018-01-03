@@ -1,0 +1,505 @@
+$ORIGIN exams.rilp.local.
+
+nl01e001        A       172.31.20.1
+nl01e002        A       172.31.20.2
+nl01e003        A       172.31.20.3
+nl01e004        A       172.31.20.4
+nl01e005        A       172.31.20.5
+nl01e006        A       172.31.20.6
+nl01e007        A       172.31.20.7
+nl01e008        A       172.31.20.8
+nl01e009        A       172.31.20.9
+nl01e010        A       172.31.20.10
+nl01e011        A       172.31.20.11
+nl01e012        A       172.31.20.12
+nl01e013        A       172.31.20.13
+nl01e014        A       172.31.20.14
+nl01e015        A       172.31.20.15
+nl01e016        A       172.31.20.16
+nl01e017        A       172.31.20.17
+nl01e018        A       172.31.20.18
+nl01e019        A       172.31.20.19
+nl01e020        A       172.31.20.20
+nl01e021        A       172.31.20.21
+nl01e022        A       172.31.20.22
+nl01e023        A       172.31.20.23
+nl01e024        A       172.31.20.24
+nl01e025        A       172.31.20.25
+nl01e026        A       172.31.20.26
+nl01e027        A       172.31.20.27
+nl01e028        A       172.31.20.28
+nl01e029        A       172.31.20.29
+nl01e030        A       172.31.20.30
+nl01e031        A       172.31.20.31
+nl01e032        A       172.31.20.32
+nl01e033        A       172.31.20.33
+nl01e034        A       172.31.20.34
+nl01e035        A       172.31.20.35
+nl01e036        A       172.31.20.36
+nl01e037        A       172.31.20.37
+nl01e038        A       172.31.20.38
+nl01e039        A       172.31.20.39
+nl01e040        A       172.31.20.40
+nl01e041        A       172.31.20.41
+nl01e042        A       172.31.20.42
+nl01e043        A       172.31.20.43
+nl01e044        A       172.31.20.44
+nl01e045        A       172.31.20.45
+nl01e046        A       172.31.20.46
+nl01e047        A       172.31.20.47
+nl01e048        A       172.31.20.48
+nl01e049        A       172.31.20.49
+nl01e050        A       172.31.20.50
+nl01e051        A       172.31.20.51
+nl01e052        A       172.31.20.52
+nl01e053        A       172.31.20.53
+nl01e054        A       172.31.20.54
+nl01e055        A       172.31.20.55
+nl01e056        A       172.31.20.56
+nl01e057        A       172.31.20.57
+nl01e058        A       172.31.20.58
+nl01e059        A       172.31.20.59
+nl01e060        A       172.31.20.60
+nl01e061        A       172.31.20.61
+nl01e062        A       172.31.20.62
+nl01e063        A       172.31.20.63
+nl01e064        A       172.31.20.64
+nl01e065        A       172.31.20.65
+nl01e066        A       172.31.20.66
+nl01e067        A       172.31.20.67
+nl01e068        A       172.31.20.68
+nl01e069        A       172.31.20.69
+nl01e070        A       172.31.20.70
+nl01e071        A       172.31.20.71
+nl01e072        A       172.31.20.72
+nl01e073        A       172.31.20.73
+nl01e074        A       172.31.20.74
+nl01e075        A       172.31.20.75
+nl01e076        A       172.31.20.76
+nl01e077        A       172.31.20.77
+nl01e078        A       172.31.20.78
+nl01e079        A       172.31.20.79
+nl01e080        A       172.31.20.80
+nl01e081        A       172.31.20.81
+nl01e082        A       172.31.20.82
+nl01e083        A       172.31.20.83
+nl01e084        A       172.31.20.84
+nl01e085        A       172.31.20.85
+nl01e086        A       172.31.20.86
+nl01e087        A       172.31.20.87
+nl01e088        A       172.31.20.88
+nl01e089        A       172.31.20.89
+nl01e090        A       172.31.20.90
+nl01e091        A       172.31.20.91
+nl01e092        A       172.31.20.92
+nl01e093        A       172.31.20.93
+nl01e094        A       172.31.20.94
+nl01e095        A       172.31.20.95
+nl01e096        A       172.31.20.96
+nl01e097        A       172.31.20.97
+nl01e098        A       172.31.20.98
+nl01e099        A       172.31.20.99
+nl01e100        A       172.31.20.100
+nl01e101        A       172.31.20.101
+nl01e102        A       172.31.20.102
+nl01e103        A       172.31.20.103
+nl01e104        A       172.31.20.104
+nl01e105        A       172.31.20.105
+nl01e106        A       172.31.20.106
+nl01e107        A       172.31.20.107
+nl01e108        A       172.31.20.108
+nl01e109        A       172.31.20.109
+nl01e110        A       172.31.20.110
+nl01e111        A       172.31.20.111
+nl01e112        A       172.31.20.112
+nl01e113        A       172.31.20.113
+nl01e114        A       172.31.20.114
+nl01e115        A       172.31.20.115
+nl01e116        A       172.31.20.116
+nl01e117        A       172.31.20.117
+nl01e118        A       172.31.20.118
+nl01e119        A       172.31.20.119
+nl01e120        A       172.31.20.120
+nl01e121        A       172.31.20.121
+nl01e122        A       172.31.20.122
+nl01e123        A       172.31.20.123
+nl01e124        A       172.31.20.124
+nl01e125        A       172.31.20.125
+nl01e126        A       172.31.20.126
+nl01e127        A       172.31.20.127
+nl01e128        A       172.31.20.128
+nl01e129        A       172.31.20.129
+nl01e130        A       172.31.20.130
+nl01e131        A       172.31.20.131
+nl01e132        A       172.31.20.132
+nl01e133        A       172.31.20.133
+nl01e134        A       172.31.20.134
+nl01e135        A       172.31.20.135
+nl01e136        A       172.31.20.136
+nl01e137        A       172.31.20.137
+nl01e138        A       172.31.20.138
+nl01e139        A       172.31.20.139
+nl01e140        A       172.31.20.140
+nl01e141        A       172.31.20.141
+nl01e142        A       172.31.20.142
+nl01e143        A       172.31.20.143
+nl01e144        A       172.31.20.144
+nl01e145        A       172.31.20.145
+nl01e146        A       172.31.20.146
+nl01e147        A       172.31.20.147
+nl01e148        A       172.31.20.148
+nl01e149        A       172.31.20.149
+nl01e150        A       172.31.20.150
+nl01e151        A       172.31.20.151
+nl01e152        A       172.31.20.152
+nl01e153        A       172.31.20.153
+nl01e154        A       172.31.20.154
+nl01e155        A       172.31.20.155
+nl01e156        A       172.31.20.156
+nl01e157        A       172.31.20.157
+nl01e158        A       172.31.20.158
+nl01e159        A       172.31.20.159
+nl01e160        A       172.31.20.160
+nl01e161        A       172.31.20.161
+nl01e162        A       172.31.20.162
+nl01e163        A       172.31.20.163
+nl01e164        A       172.31.20.164
+nl01e165        A       172.31.20.165
+nl01e166        A       172.31.20.166
+nl01e167        A       172.31.20.167
+nl01e168        A       172.31.20.168
+nl01e169        A       172.31.20.169
+nl01e170        A       172.31.20.170
+nl01e171        A       172.31.20.171
+nl01e172        A       172.31.20.172
+nl01e173        A       172.31.20.173
+nl01e174        A       172.31.20.174
+nl01e175        A       172.31.20.175
+nl01e176        A       172.31.20.176
+nl01e177        A       172.31.20.177
+nl01e178        A       172.31.20.178
+nl01e179        A       172.31.20.179
+nl01e180        A       172.31.20.180
+nl01e181        A       172.31.20.181
+nl01e182        A       172.31.20.182
+nl01e183        A       172.31.20.183
+nl01e184        A       172.31.20.184
+nl01e185        A       172.31.20.185
+nl01e186        A       172.31.20.186
+nl01e187        A       172.31.20.187
+nl01e188        A       172.31.20.188
+nl01e189        A       172.31.20.189
+nl01e190        A       172.31.20.190
+nl01e191        A       172.31.20.191
+nl01e192        A       172.31.20.192
+nl01e193        A       172.31.20.193
+nl01e194        A       172.31.20.194
+nl01e195        A       172.31.20.195
+nl01e196        A       172.31.20.196
+nl01e197        A       172.31.20.197
+nl01e198        A       172.31.20.198
+nl01e199        A       172.31.20.199
+nl01e200        A       172.31.20.200
+nl01e201        A       172.31.20.201
+nl01e202        A       172.31.20.202
+nl01e203        A       172.31.20.203
+nl01e204        A       172.31.20.204
+nl01e205        A       172.31.20.205
+nl01e206        A       172.31.20.206
+nl01e207        A       172.31.20.207
+nl01e208        A       172.31.20.208
+nl01e209        A       172.31.20.209
+nl01e210        A       172.31.20.210
+nl01e211        A       172.31.20.211
+nl01e212        A       172.31.20.212
+nl01e213        A       172.31.20.213
+nl01e214        A       172.31.20.214
+nl01e215        A       172.31.20.215
+nl01e216        A       172.31.20.216
+nl01e217        A       172.31.20.217
+nl01e218        A       172.31.20.218
+nl01e219        A       172.31.20.219
+nl01e220        A       172.31.20.220
+nl01e221        A       172.31.20.221
+nl01e222        A       172.31.20.222
+nl01e223        A       172.31.20.223
+nl01e224        A       172.31.20.224
+nl01e225        A       172.31.20.225
+nl01e226        A       172.31.20.226
+nl01e227        A       172.31.20.227
+nl01e228        A       172.31.20.228
+nl01e229        A       172.31.20.229
+nl01e230        A       172.31.20.230
+nl01e231        A       172.31.20.231
+nl01e232        A       172.31.20.232
+nl01e233        A       172.31.20.233
+nl01e234        A       172.31.20.234
+nl01e235        A       172.31.20.235
+nl01e236        A       172.31.20.236
+nl01e237        A       172.31.20.237
+nl01e238        A       172.31.20.238
+nl01e239        A       172.31.20.239
+nl01e240        A       172.31.20.240
+nl01e241        A       172.31.20.241
+nl01e242        A       172.31.20.242
+nl01e243        A       172.31.20.243
+nl01e244        A       172.31.20.244
+nl01e245        A       172.31.20.245
+nl01e246        A       172.31.20.246
+nl01e247        A       172.31.20.247
+nl01e248        A       172.31.20.248
+nl01e249        A       172.31.20.249
+nl01e250        A       172.31.20.250
+
+$ORIGIN 32.31.172.in-addr.arpa.
+
+1       IN      PTR     nl01e001.exams.rilp.local.
+2       IN      PTR     nl01e002.exams.rilp.local.
+3       IN      PTR     nl01e003.exams.rilp.local.
+4       IN      PTR     nl01e004.exams.rilp.local.
+5       IN      PTR     nl01e005.exams.rilp.local.
+6       IN      PTR     nl01e006.exams.rilp.local.
+7       IN      PTR     nl01e007.exams.rilp.local.
+8       IN      PTR     nl01e008.exams.rilp.local.
+9       IN      PTR     nl01e009.exams.rilp.local.
+10      IN      PTR     nl01e010.exams.rilp.local.
+11      IN      PTR     nl01e011.exams.rilp.local.
+12      IN      PTR     nl01e012.exams.rilp.local.
+13      IN      PTR     nl01e013.exams.rilp.local.
+14      IN      PTR     nl01e014.exams.rilp.local.
+15      IN      PTR     nl01e015.exams.rilp.local.
+16      IN      PTR     nl01e016.exams.rilp.local.
+17      IN      PTR     nl01e017.exams.rilp.local.
+18      IN      PTR     nl01e018.exams.rilp.local.
+19      IN      PTR     nl01e019.exams.rilp.local.
+20      IN      PTR     nl01e020.exams.rilp.local.
+21      IN      PTR     nl01e021.exams.rilp.local.
+22      IN      PTR     nl01e022.exams.rilp.local.
+23      IN      PTR     nl01e023.exams.rilp.local.
+24      IN      PTR     nl01e024.exams.rilp.local.
+25      IN      PTR     nl01e025.exams.rilp.local.
+26      IN      PTR     nl01e026.exams.rilp.local.
+27      IN      PTR     nl01e027.exams.rilp.local.
+28      IN      PTR     nl01e028.exams.rilp.local.
+29      IN      PTR     nl01e029.exams.rilp.local.
+30      IN      PTR     nl01e030.exams.rilp.local.
+31      IN      PTR     nl01e031.exams.rilp.local.
+32      IN      PTR     nl01e032.exams.rilp.local.
+33      IN      PTR     nl01e033.exams.rilp.local.
+34      IN      PTR     nl01e034.exams.rilp.local.
+35      IN      PTR     nl01e035.exams.rilp.local.
+36      IN      PTR     nl01e036.exams.rilp.local.
+37      IN      PTR     nl01e037.exams.rilp.local.
+38      IN      PTR     nl01e038.exams.rilp.local.
+39      IN      PTR     nl01e039.exams.rilp.local.
+40      IN      PTR     nl01e040.exams.rilp.local.
+41      IN      PTR     nl01e041.exams.rilp.local.
+42      IN      PTR     nl01e042.exams.rilp.local.
+43      IN      PTR     nl01e043.exams.rilp.local.
+44      IN      PTR     nl01e044.exams.rilp.local.
+45      IN      PTR     nl01e045.exams.rilp.local.
+46      IN      PTR     nl01e046.exams.rilp.local.
+47      IN      PTR     nl01e047.exams.rilp.local.
+48      IN      PTR     nl01e048.exams.rilp.local.
+49      IN      PTR     nl01e049.exams.rilp.local.
+50      IN      PTR     nl01e050.exams.rilp.local.
+51      IN      PTR     nl01e051.exams.rilp.local.
+52      IN      PTR     nl01e052.exams.rilp.local.
+53      IN      PTR     nl01e053.exams.rilp.local.
+54      IN      PTR     nl01e054.exams.rilp.local.
+55      IN      PTR     nl01e055.exams.rilp.local.
+56      IN      PTR     nl01e056.exams.rilp.local.
+57      IN      PTR     nl01e057.exams.rilp.local.
+58      IN      PTR     nl01e058.exams.rilp.local.
+59      IN      PTR     nl01e059.exams.rilp.local.
+60      IN      PTR     nl01e060.exams.rilp.local.
+61      IN      PTR     nl01e061.exams.rilp.local.
+62      IN      PTR     nl01e062.exams.rilp.local.
+63      IN      PTR     nl01e063.exams.rilp.local.
+64      IN      PTR     nl01e064.exams.rilp.local.
+65      IN      PTR     nl01e065.exams.rilp.local.
+66      IN      PTR     nl01e066.exams.rilp.local.
+67      IN      PTR     nl01e067.exams.rilp.local.
+68      IN      PTR     nl01e068.exams.rilp.local.
+69      IN      PTR     nl01e069.exams.rilp.local.
+70      IN      PTR     nl01e070.exams.rilp.local.
+71      IN      PTR     nl01e071.exams.rilp.local.
+72      IN      PTR     nl01e072.exams.rilp.local.
+73      IN      PTR     nl01e073.exams.rilp.local.
+74      IN      PTR     nl01e074.exams.rilp.local.
+75      IN      PTR     nl01e075.exams.rilp.local.
+76      IN      PTR     nl01e076.exams.rilp.local.
+77      IN      PTR     nl01e077.exams.rilp.local.
+78      IN      PTR     nl01e078.exams.rilp.local.
+79      IN      PTR     nl01e079.exams.rilp.local.
+80      IN      PTR     nl01e080.exams.rilp.local.
+81      IN      PTR     nl01e081.exams.rilp.local.
+82      IN      PTR     nl01e082.exams.rilp.local.
+83      IN      PTR     nl01e083.exams.rilp.local.
+84      IN      PTR     nl01e084.exams.rilp.local.
+85      IN      PTR     nl01e085.exams.rilp.local.
+86      IN      PTR     nl01e086.exams.rilp.local.
+87      IN      PTR     nl01e087.exams.rilp.local.
+88      IN      PTR     nl01e088.exams.rilp.local.
+89      IN      PTR     nl01e089.exams.rilp.local.
+90      IN      PTR     nl01e090.exams.rilp.local.
+91      IN      PTR     nl01e091.exams.rilp.local.
+92      IN      PTR     nl01e092.exams.rilp.local.
+93      IN      PTR     nl01e093.exams.rilp.local.
+94      IN      PTR     nl01e094.exams.rilp.local.
+95      IN      PTR     nl01e095.exams.rilp.local.
+96      IN      PTR     nl01e096.exams.rilp.local.
+97      IN      PTR     nl01e097.exams.rilp.local.
+98      IN      PTR     nl01e098.exams.rilp.local.
+99      IN      PTR     nl01e099.exams.rilp.local.
+100     IN      PTR     nl01e100.exams.rilp.local.
+101     IN      PTR     nl01e101.exams.rilp.local.
+102     IN      PTR     nl01e102.exams.rilp.local.
+103     IN      PTR     nl01e103.exams.rilp.local.
+104     IN      PTR     nl01e104.exams.rilp.local.
+105     IN      PTR     nl01e105.exams.rilp.local.
+106     IN      PTR     nl01e106.exams.rilp.local.
+107     IN      PTR     nl01e107.exams.rilp.local.
+108     IN      PTR     nl01e108.exams.rilp.local.
+109     IN      PTR     nl01e109.exams.rilp.local.
+110     IN      PTR     nl01e110.exams.rilp.local.
+111     IN      PTR     nl01e111.exams.rilp.local.
+112     IN      PTR     nl01e112.exams.rilp.local.
+113     IN      PTR     nl01e113.exams.rilp.local.
+114     IN      PTR     nl01e114.exams.rilp.local.
+115     IN      PTR     nl01e115.exams.rilp.local.
+116     IN      PTR     nl01e116.exams.rilp.local.
+117     IN      PTR     nl01e117.exams.rilp.local.
+118     IN      PTR     nl01e118.exams.rilp.local.
+119     IN      PTR     nl01e119.exams.rilp.local.
+120     IN      PTR     nl01e120.exams.rilp.local.
+121     IN      PTR     nl01e121.exams.rilp.local.
+122     IN      PTR     nl01e122.exams.rilp.local.
+123     IN      PTR     nl01e123.exams.rilp.local.
+124     IN      PTR     nl01e124.exams.rilp.local.
+125     IN      PTR     nl01e125.exams.rilp.local.
+126     IN      PTR     nl01e126.exams.rilp.local.
+127     IN      PTR     nl01e127.exams.rilp.local.
+128     IN      PTR     nl01e128.exams.rilp.local.
+129     IN      PTR     nl01e129.exams.rilp.local.
+130     IN      PTR     nl01e130.exams.rilp.local.
+131     IN      PTR     nl01e131.exams.rilp.local.
+132     IN      PTR     nl01e132.exams.rilp.local.
+133     IN      PTR     nl01e133.exams.rilp.local.
+134     IN      PTR     nl01e134.exams.rilp.local.
+135     IN      PTR     nl01e135.exams.rilp.local.
+136     IN      PTR     nl01e136.exams.rilp.local.
+137     IN      PTR     nl01e137.exams.rilp.local.
+138     IN      PTR     nl01e138.exams.rilp.local.
+139     IN      PTR     nl01e139.exams.rilp.local.
+140     IN      PTR     nl01e140.exams.rilp.local.
+141     IN      PTR     nl01e141.exams.rilp.local.
+142     IN      PTR     nl01e142.exams.rilp.local.
+143     IN      PTR     nl01e143.exams.rilp.local.
+144     IN      PTR     nl01e144.exams.rilp.local.
+145     IN      PTR     nl01e145.exams.rilp.local.
+146     IN      PTR     nl01e146.exams.rilp.local.
+147     IN      PTR     nl01e147.exams.rilp.local.
+148     IN      PTR     nl01e148.exams.rilp.local.
+149     IN      PTR     nl01e149.exams.rilp.local.
+150     IN      PTR     nl01e150.exams.rilp.local.
+151     IN      PTR     nl01e151.exams.rilp.local.
+152     IN      PTR     nl01e152.exams.rilp.local.
+153     IN      PTR     nl01e153.exams.rilp.local.
+154     IN      PTR     nl01e154.exams.rilp.local.
+155     IN      PTR     nl01e155.exams.rilp.local.
+156     IN      PTR     nl01e156.exams.rilp.local.
+157     IN      PTR     nl01e157.exams.rilp.local.
+158     IN      PTR     nl01e158.exams.rilp.local.
+159     IN      PTR     nl01e159.exams.rilp.local.
+160     IN      PTR     nl01e160.exams.rilp.local.
+161     IN      PTR     nl01e161.exams.rilp.local.
+162     IN      PTR     nl01e162.exams.rilp.local.
+163     IN      PTR     nl01e163.exams.rilp.local.
+164     IN      PTR     nl01e164.exams.rilp.local.
+165     IN      PTR     nl01e165.exams.rilp.local.
+166     IN      PTR     nl01e166.exams.rilp.local.
+167     IN      PTR     nl01e167.exams.rilp.local.
+168     IN      PTR     nl01e168.exams.rilp.local.
+169     IN      PTR     nl01e169.exams.rilp.local.
+170     IN      PTR     nl01e170.exams.rilp.local.
+171     IN      PTR     nl01e171.exams.rilp.local.
+172     IN      PTR     nl01e172.exams.rilp.local.
+173     IN      PTR     nl01e173.exams.rilp.local.
+174     IN      PTR     nl01e174.exams.rilp.local.
+175     IN      PTR     nl01e175.exams.rilp.local.
+176     IN      PTR     nl01e176.exams.rilp.local.
+177     IN      PTR     nl01e177.exams.rilp.local.
+178     IN      PTR     nl01e178.exams.rilp.local.
+179     IN      PTR     nl01e179.exams.rilp.local.
+180     IN      PTR     nl01e180.exams.rilp.local.
+181     IN      PTR     nl01e181.exams.rilp.local.
+182     IN      PTR     nl01e182.exams.rilp.local.
+183     IN      PTR     nl01e183.exams.rilp.local.
+184     IN      PTR     nl01e184.exams.rilp.local.
+185     IN      PTR     nl01e185.exams.rilp.local.
+186     IN      PTR     nl01e186.exams.rilp.local.
+187     IN      PTR     nl01e187.exams.rilp.local.
+188     IN      PTR     nl01e188.exams.rilp.local.
+189     IN      PTR     nl01e189.exams.rilp.local.
+190     IN      PTR     nl01e190.exams.rilp.local.
+191     IN      PTR     nl01e191.exams.rilp.local.
+192     IN      PTR     nl01e192.exams.rilp.local.
+193     IN      PTR     nl01e193.exams.rilp.local.
+194     IN      PTR     nl01e194.exams.rilp.local.
+195     IN      PTR     nl01e195.exams.rilp.local.
+196     IN      PTR     nl01e196.exams.rilp.local.
+197     IN      PTR     nl01e197.exams.rilp.local.
+198     IN      PTR     nl01e198.exams.rilp.local.
+199     IN      PTR     nl01e199.exams.rilp.local.
+200     IN      PTR     nl01e200.exams.rilp.local.
+201     IN      PTR     nl01e201.exams.rilp.local.
+202     IN      PTR     nl01e202.exams.rilp.local.
+203     IN      PTR     nl01e203.exams.rilp.local.
+204     IN      PTR     nl01e204.exams.rilp.local.
+205     IN      PTR     nl01e205.exams.rilp.local.
+206     IN      PTR     nl01e206.exams.rilp.local.
+207     IN      PTR     nl01e207.exams.rilp.local.
+208     IN      PTR     nl01e208.exams.rilp.local.
+209     IN      PTR     nl01e209.exams.rilp.local.
+210     IN      PTR     nl01e210.exams.rilp.local.
+211     IN      PTR     nl01e211.exams.rilp.local.
+212     IN      PTR     nl01e212.exams.rilp.local.
+213     IN      PTR     nl01e213.exams.rilp.local.
+214     IN      PTR     nl01e214.exams.rilp.local.
+215     IN      PTR     nl01e215.exams.rilp.local.
+216     IN      PTR     nl01e216.exams.rilp.local.
+217     IN      PTR     nl01e217.exams.rilp.local.
+218     IN      PTR     nl01e218.exams.rilp.local.
+219     IN      PTR     nl01e219.exams.rilp.local.
+220     IN      PTR     nl01e220.exams.rilp.local.
+221     IN      PTR     nl01e221.exams.rilp.local.
+222     IN      PTR     nl01e222.exams.rilp.local.
+223     IN      PTR     nl01e223.exams.rilp.local.
+224     IN      PTR     nl01e224.exams.rilp.local.
+225     IN      PTR     nl01e225.exams.rilp.local.
+226     IN      PTR     nl01e226.exams.rilp.local.
+227     IN      PTR     nl01e227.exams.rilp.local.
+228     IN      PTR     nl01e228.exams.rilp.local.
+229     IN      PTR     nl01e229.exams.rilp.local.
+230     IN      PTR     nl01e230.exams.rilp.local.
+231     IN      PTR     nl01e231.exams.rilp.local.
+232     IN      PTR     nl01e232.exams.rilp.local.
+233     IN      PTR     nl01e233.exams.rilp.local.
+234     IN      PTR     nl01e234.exams.rilp.local.
+235     IN      PTR     nl01e235.exams.rilp.local.
+236     IN      PTR     nl01e236.exams.rilp.local.
+237     IN      PTR     nl01e237.exams.rilp.local.
+238     IN      PTR     nl01e238.exams.rilp.local.
+239     IN      PTR     nl01e239.exams.rilp.local.
+240     IN      PTR     nl01e240.exams.rilp.local.
+241     IN      PTR     nl01e241.exams.rilp.local.
+242     IN      PTR     nl01e242.exams.rilp.local.
+243     IN      PTR     nl01e243.exams.rilp.local.
+244     IN      PTR     nl01e244.exams.rilp.local.
+245     IN      PTR     nl01e245.exams.rilp.local.
+246     IN      PTR     nl01e246.exams.rilp.local.
+247     IN      PTR     nl01e247.exams.rilp.local.
+248     IN      PTR     nl01e248.exams.rilp.local.
+249     IN      PTR     nl01e249.exams.rilp.local.
+250     IN      PTR     nl01e250.exams.rilp.local.

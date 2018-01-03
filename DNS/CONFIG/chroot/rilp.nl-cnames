@@ -1,0 +1,15 @@
+$ORIGIN rilp.nl.
+
+@               MX 10   nl01p106.rilp.nl.
+
+ns              CNAME   vip-p003.rilp.nl.
+ns01            CNAME   nl01p001.rilp.nl.
+ns02            CNAME   nl02p001.rilp.nl.
+ns03            CNAME   nl03p001.rilp.nl.
+#spacewalk       CNAME   nl01p003.rilp.nl.
+spacewalk       CNAME   nl01p007.rilp.nl.
+mail            CNAME   nl01p004.rilp.nl.
+foreman		CNAME   nl01x002.lab.rilp.nl.
+
+guacamole	CNAME	nl02x010.lab.rilp.nl.
+
