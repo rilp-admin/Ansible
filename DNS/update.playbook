@@ -1,0 +1,3 @@
+yum:
+  bind
+  bind-chroot
